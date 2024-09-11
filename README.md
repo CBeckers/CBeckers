@@ -1,6 +1,7 @@
 ## Hi, I'm Cade Beckers 👋
 
-##`Software Engineer | Bowler | Computer Enthusiast`##
+`Software Engineer | Bowler | Computer Enthusiast`
+
 I'm a software engineer specializing in backend development, particularly with Go, JavaScript, Java, and Python. I enjoy learning new languages and building projects that challenge me to become a better programmer.
 
 ### Skills
