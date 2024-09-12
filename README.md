@@ -2,7 +2,7 @@
 
 `Software Engineer | Bowler | Computer Enthusiast`
 
-I'm a software engineer specializing in backend development, particularly with Go, JavaScript, Java, and Python. I enjoy learning new languages and building projects that challenge me to become a better programmer. I love software development of all forms and I love the satisfaction of when you finally complete a project. My favorite part about software development is that anyone from any point in their life can create software, as long as they have the drive to.
+I'm a software engineer specializing in backend development, particularly with Go, JavaScript, Java, and Python. I enjoy learning new languages and building projects that challenge me to become a better programmer. I love software development of all forms and I love the satisfaction of when you finally complete a project. My favorite part about software development is that anyone, from any point in their life, can create software as long as they have the drive to.
 
 ### Skills
 - Languages: Go, Java, Python, JavaScript, HTML/CSS
